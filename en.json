@@ -1,6 +1,11 @@
 {
   "save": "Save",
+
   "delete": "Delete",
+
   "edit": "Edit",
-  "copy": "Copy"
+
+  "copy": "Copy",
+
+  "move": "Move"
 }
