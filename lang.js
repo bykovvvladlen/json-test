@@ -11,4 +11,8 @@ module.exports = {
     ru: 'Изменить',
     en: 'Edit',
   },
+  'copy': {
+    ru: 'Копировать',
+    en: 'Copy',
+  },
 };
