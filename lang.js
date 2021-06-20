@@ -13,4 +13,9 @@ module.exports = {
     ru: 'Изменить',
     en: 'Edit',
   },
+
+  'copy': {
+    ru: 'Test',
+    en: 'Ed123it',
+  },
 };
