@@ -3,10 +3,12 @@ module.exports = {
     ru: 'Сохранить',
     en: 'Save',
   },
+
   'delete': {
     ru: 'Удалить',
     en: 'Delete',
   },
+
   'edit': {
     ru: 'Изменить',
     en: 'Edit',
