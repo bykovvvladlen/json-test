@@ -13,4 +13,9 @@ module.exports = {
     ru: 'Изменить',
     en: 'Edit',
   },
+
+  '123123': {
+    ru: 'qrrqr',
+    en: 'www',
+  },
 };
